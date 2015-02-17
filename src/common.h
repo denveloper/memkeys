@@ -39,8 +39,8 @@
 typedef long long unsigned int llui_t;
 typedef long long int llsi_t;
 
-#include "util/util.h"
-#include "logging/logging.h"
+#include "util.h"
+#include "logging.h"
 #include "config.h"
 
 #endif

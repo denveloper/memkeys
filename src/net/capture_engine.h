@@ -4,11 +4,11 @@
 #include <thread>
 #include <mutex>
 
-#include "common.h"
-#include "net/memcache_command.h"
-#include "net/packet.h"
-#include "net/pcap.h"
-#include "report/report.h"
+#include "../common.h"
+#include "memcache_command.h"
+#include "packet.h"
+#include "pcap.h"
+#include "../report/report.h"
 
 // Basic holder for userdata when processing packets. Provides a logger, report
 // instance, and a config

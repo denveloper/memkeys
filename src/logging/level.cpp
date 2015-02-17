@@ -1,8 +1,8 @@
 #include <stdexcept>
 #include <iostream>
 
-#include "logging/level.h"
-#include "util/util.h"
+#include "level.h"
+#include "../util.h"
 
 namespace mckeys {
 

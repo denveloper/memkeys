@@ -1,9 +1,9 @@
 #ifndef _NET_PCAP_LIVE_H
 #define _NET_PCAP_LIVE_H
 
-#include "net/pcap.h"
-#include "net/device.h"
-#include "common.h"
+#include "pcap.h"
+#include "device.h"
+#include "../common.h"
 
 namespace mckeys {
 

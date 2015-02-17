@@ -7,17 +7,17 @@
 
 #include <cstdint>
 
-#ifdef HAVE_ATOMIC
+//#ifdef HAVE_ATOMIC
 #include <atomic>
-#else
-#include <cstdatomic>
-#endif
+//#else
+//#include <cstdatomic>
+//#endif
 
 #include <functional>
 #include <unordered_map>
 #include <string>
 
-#include "util/util_time.h"
+#include "util_time.h"
 
 namespace mckeys {
 

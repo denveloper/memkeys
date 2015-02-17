@@ -1,8 +1,8 @@
 #include <string>
 #include <iomanip>
 
-#include "net/net.h"
-#include "util/util.h"
+#include "../net.h"
+#include "../util.h"
 
 namespace mckeys {
 

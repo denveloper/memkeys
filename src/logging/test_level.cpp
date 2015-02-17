@@ -1,5 +1,5 @@
-#include "logging/level.h"
-#include "util/options.h"
+#include "level.h"
+#include "../util/options.h"
 #include <string>
 #include <stdexcept>
 #include <gtest/gtest.h>

@@ -2,9 +2,9 @@
 #define _REPORT_REPORT_H
 
 #include <thread>
-#include "config.h"
-#include "logging/logger.h"
-#include "util/state.h"
+#include "../config.h"
+#include "../logging/logger.h"
+#include "../util/state.h"
 
 namespace mckeys {
 

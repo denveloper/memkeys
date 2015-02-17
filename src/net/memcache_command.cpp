@@ -3,7 +3,7 @@
 #include <string>
 #include <pcrecpp.h>
 
-#include "net/net.h"
+#include "../net.h"
 
 extern "C" {
 #include <arpa/inet.h>

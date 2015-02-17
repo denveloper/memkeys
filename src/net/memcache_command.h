@@ -3,8 +3,8 @@
 
 #include <string>
 
-#include "net/packet.h"
-#include "net/pcap.h"
+#include "packet.h"
+#include "pcap.h"
 
 namespace mckeys {
 

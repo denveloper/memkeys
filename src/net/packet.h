@@ -1,7 +1,7 @@
 #ifndef _NET_PACKET_H
 #define _NET_PACKET_H
 
-#include "net/pcap.h"
+#include "pcap.h"
 
 extern "C" {
 #include <string.h>

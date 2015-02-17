@@ -1,6 +1,4 @@
-#include "report/report.h"
-#include "config.h"
-#include "logging/logger.h"
+#include "report.h"
 
 namespace mckeys {
 

@@ -1,9 +1,9 @@
 #include <stdexcept>
 
-#include "common.h"
-#include "report/report_type.h"
-#include "report/csv.h"
-#include "report/curses.h"
+#include "../common.h"
+#include "report_type.h"
+#include "csv.h"
+#include "curses.h"
 
 namespace mckeys {
 

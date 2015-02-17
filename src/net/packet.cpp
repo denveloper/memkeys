@@ -1,4 +1,4 @@
-#include "net/packet.h"
+#include "packet.h"
 
 namespace mckeys {
 using namespace std;

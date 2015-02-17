@@ -8,10 +8,10 @@
 #include <string>
 #include <thread>
 #include <vector>
-#include "config.h"
-#include "util/mqueue.h"
-#include "util/stat.h"
-#include "util/state.h"
+#include "../config.h"
+#include "mqueue.h"
+#include "stat.h"
+#include "state.h"
 
 namespace mckeys {
 

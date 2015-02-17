@@ -1,7 +1,7 @@
-#include "common.h"
-#include "net/net.h"
-#include "report/report.h"
-#include "report/curses.h"
+#include "../common.h"
+#include "../net.h"
+#include "../report/report.h"
+#include "../report/curses.h"
 
 #include <vector>
 

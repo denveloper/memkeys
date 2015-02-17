@@ -1,10 +1,10 @@
 #ifndef _REPORT_CURSES_H
 #define _REPORT_CURSES_H
 
-#include "config.h"
-#include "net/pcap.h"
-#include "report/report.h"
-#include "util/stats.h"
+#include "../config.h"
+#include "../net/pcap.h"
+#include "report.h"
+#include "../util/stats.h"
 
 #include <map>
 #include <string>

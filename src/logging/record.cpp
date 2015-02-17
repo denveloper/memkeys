@@ -5,7 +5,7 @@ extern "C" {
 #include <sys/time.h>
 }
 
-#include "logging/record.h"
+#include "record.h"
 
 namespace mckeys {
 

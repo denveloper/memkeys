@@ -8,8 +8,8 @@
 #include <mutex>
 #include <sstream>
 #include <string>
-#include "logging/level.h"
-#include "logging/record.h"
+#include "level.h"
+#include "record.h"
 
 #define CONTEXT mckeys::Record(__FILE__, __LINE__, __FUNCTION__)
 #define CONTEXT_EX(ex) mckeys::Record(__FILE__, __LINE__, __FUNCTION__, ex)

@@ -1,8 +1,7 @@
 #include <string>
 #include <map>
-
-#include "util/util.h"
-#include "net/net.h"
+#include "../util.h"
+#include "../net.h"
 
 extern "C" {
 #include <arpa/inet.h>

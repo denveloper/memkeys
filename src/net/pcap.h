@@ -5,7 +5,7 @@ extern "C" {
   #include <pcap.h>
 }
 
-#include "common.h"
+#include "../common.h"
 
 namespace mckeys {
 

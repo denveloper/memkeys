@@ -4,7 +4,7 @@
 #include <string>
 
 #include "common.h"
-#include "net/net.h"
+#include "net.h"
 #include "report/report.h"
 
 namespace mckeys {

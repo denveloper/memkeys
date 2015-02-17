@@ -1,5 +1,5 @@
-#include "logging/record.h"
-#include "logging/level.h"
+#include "record.h"
+#include "level.h"
 #include <string>
 #include <gtest/gtest.h>
 

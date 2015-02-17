@@ -1,8 +1,8 @@
 #include <iomanip>
 #include <iterator>
 
-#include "common.h"
-#include "report/curses.h"
+#include "../common.h"
+#include "curses.h"
 
 extern "C" {
 #include <signal.h>

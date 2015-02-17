@@ -1,7 +1,7 @@
 #include <stdexcept>
 #include <iostream>
 
-#include "logging/logger.h"
+#include "logger.h"
 
 namespace mckeys {
 
